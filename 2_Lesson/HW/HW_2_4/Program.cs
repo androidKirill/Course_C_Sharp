@@ -11,4 +11,4 @@ void Weekend(int num)
 
 Weekend(6);
 Weekend(7);
-Weekend(1);
+Weekend(1111);
